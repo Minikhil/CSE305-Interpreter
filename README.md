@@ -1,2 +1,2 @@
 # CSE305-Interpreter
-Class term project
+Course project for Introduction to programming languages(CSE 305)
